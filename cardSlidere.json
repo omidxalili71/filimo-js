@@ -1,0 +1,340 @@
+{
+  "cardSlider": [
+    {
+      "id": 1,
+      "exclusiveCode": "s1",
+      "src": "./public/images/pop-serial/golpooch1.jpg",
+      "alt": "gol-ya-pouch",
+      "session": 1,
+      "part": 1,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 2,
+      "exclusiveCode": "s1",
+      "src": "./public/images/pop-serial/golpooch1.jpg",
+      "alt": "gol-ya-pouch",
+      "session": 1,
+      "part": 2,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 3,
+      "exclusiveCode": "s1",
+      "src": "./public/images/pop-serial/golpooch1.jpg",
+      "alt": "gol-ya-pouch",
+      "session": 1,
+      "part": 3,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 4,
+      "exclusiveCode": "s1",
+      "src": "./public/images/pop-serial/golpooch1.jpg",
+      "alt": "gol-ya-pouch",
+      "session": 1,
+      "part": 4,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 5,
+      "exclusiveCode": "s1",
+      "src": "./public/images/pop-serial/golpooch1.jpg",
+      "alt": "gol-ya-pouch",
+      "session": 1,
+      "part": 5,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 6,
+      "exclusiveCode": "s2",
+      "src": "./public/images/pop-serial/zakhme-kari.jpg",
+      "alt": "zakhme-kari",
+      "session": 1,
+      "part": 1,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 7,
+      "exclusiveCode": "s2",
+      "src": "./public/images/pop-serial/zakhme-kari.jpg",
+      "alt": "zakhme-kari",
+      "session": 1,
+      "part": 2,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 8,
+      "exclusiveCode": "s2",
+      "src": "./public/images/pop-serial/zakhme-kari.jpg",
+      "alt": "zakhme-kari",
+      "session": 1,
+      "part": 3,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 9,
+      "exclusiveCode": "s2",
+      "src": "./public/images/pop-serial/zakhme-kari.jpg",
+      "alt": "zakhme-kari",
+      "session": 1,
+      "part": 4,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 10,
+      "exclusiveCode": "s2",
+      "src": "./public/images/pop-serial/zakhme-kari.jpg",
+      "alt": "zakhme-kari",
+      "session": 1,
+      "part": 5,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 11,
+      "exclusiveCode": "s3",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "alt": "joker",
+      "session": 1,
+      "part": 1,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 12,
+      "exclusiveCode": "s3",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "alt": "joker",
+      "session": 1,
+      "part": 2,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 13,
+      "exclusiveCode": "s3",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "alt": "joker",
+      "session": 1,
+      "part": 3,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 14,
+      "exclusiveCode": "s3",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "alt": "joker",
+      "session": 1,
+      "part": 4,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 15,
+      "exclusiveCode": "s3",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "alt": "joker",
+      "session": 1,
+      "part": 5,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 16,
+      "exclusiveCode": "s3",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "session": 1,
+      "part": 6,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 17,
+      "exclusiveCode": "s3",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "session": 1,
+      "part": 7,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 1,
+      "exclusiveCode": "s4",
+      "src": "./public/images/pop-serial/golpooch1.jpg",
+      "alt": "gol-ya-pouch",
+      "session": 1,
+      "part": 1,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 2,
+      "exclusiveCode": "s4",
+      "src": "./public/images/pop-serial/golpooch1.jpg",
+      "alt": "gol-ya-pouch",
+      "session": 1,
+      "part": 2,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 3,
+      "exclusiveCode": "s4",
+      "src": "./public/images/pop-serial/golpooch1.jpg",
+      "alt": "gol-ya-pouch",
+      "session": 1,
+      "part": 3,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 4,
+      "exclusiveCode": "s4",
+      "src": "./public/images/pop-serial/golpooch1.jpg",
+      "alt": "gol-ya-pouch",
+      "session": 1,
+      "part": 4,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 5,
+      "exclusiveCode": "s4",
+      "src": "./public/images/pop-serial/golpooch1.jpg",
+      "alt": "gol-ya-pouch",
+      "session": 1,
+      "part": 5,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 6,
+      "exclusiveCode": "s5",
+      "src": "./public/images/pop-serial/zakhme-kari.jpg",
+      "alt": "zakhme-kari",
+      "session": 1,
+      "part": 1,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 7,
+      "exclusiveCode": "s5",
+      "src": "./public/images/pop-serial/zakhme-kari.jpg",
+      "alt": "zakhme-kari",
+      "session": 1,
+      "part": 2,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 8,
+      "exclusiveCode": "s5",
+      "src": "./public/images/pop-serial/zakhme-kari.jpg",
+      "alt": "zakhme-kari",
+      "session": 1,
+      "part": 3,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 9,
+      "exclusiveCode": "s5",
+      "src": "./public/images/pop-serial/zakhme-kari.jpg",
+      "alt": "zakhme-kari",
+      "session": 1,
+      "part": 4,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 10,
+      "exclusiveCode": "s5",
+      "src": "./public/images/pop-serial/zakhme-kari.jpg",
+      "alt": "zakhme-kari",
+      "session": 1,
+      "part": 5,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 11,
+      "exclusiveCode": "s6",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "alt": "joker",
+      "session": 1,
+      "part": 1,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 12,
+      "exclusiveCode": "s6",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "alt": "joker",
+      "session": 1,
+      "part": 2,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 13,
+      "exclusiveCode": "s6",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "alt": "joker",
+      "session": 1,
+      "part": 3,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 14,
+      "exclusiveCode": "s6",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "alt": "joker",
+      "session": 1,
+      "part": 4,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 15,
+      "exclusiveCode": "s6",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "alt": "joker",
+      "session": 1,
+      "part": 5,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 16,
+      "exclusiveCode": "s6",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "session": 1,
+      "part": 6,
+      "duration": 0,
+      "playIcon": "no"
+    },
+    {
+      "id": 17,
+      "exclusiveCode": "s6",
+      "src": "./public/images/pop-serial/joker.jpg",
+      "session": 1,
+      "part": 7,
+      "duration": 0,
+      "playIcon": "no"
+    }
+  ]
+}

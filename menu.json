@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "id": 1,
+      "name": "فیلیمیتور",
+      "link": "",
+      "svgLink": "./public/svg/filimotor.svg",
+      "alt": "فیلیمیتور",
+      "dropdown": []
+    },
+    {
+      "id": 2,
+      "name": "فیلیمومدرسه",
+      "link": "",
+      "svgLink": "./public/svg/filimomadraseh.svg",
+      "alt": "فیلیمومدرسه",
+      "dropdown": []
+    },
+    {
+      "id": 3,
+      "name": "جستجو",
+      "link": "",
+      "svgLink": "./public/svg/search.svg",
+      "alt": "جستجو",
+      "dropdown": []
+    }
+  ]
+}

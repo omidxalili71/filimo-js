@@ -1,0 +1,15 @@
+{
+  "onlineCinema": [
+    {
+      "id": 1,
+      "src": "./public/images/cinema/download.jfif",
+      "alt": "bibadan",
+      "title": "بی بدن",
+      "coach": "مرتضی علیزاده",
+      "tags": {
+        "tag1": "جنایی",
+        "tag2": "درام"
+      }
+    }
+  ]
+}
