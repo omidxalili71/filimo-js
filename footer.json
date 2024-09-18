@@ -1,75 +1,73 @@
-{
-  "footer": [
-    {
-      "id": 1,
-      "svgUrl": "./public/svg/tv.svg",
-      "title": "تماشا با تلویزیون",
-      "href": "#",
-      "subMenu": []
-    },
-    {
-      "id": 1,
-      "svgUrl": "",
-      "title": "اپلیکیشن‌ها",
-      "href": "#",
-      "subMenu": []
-    },
-    {
-      "id": 1,
-      "svgUrl": "",
-      "title": "تماس و پشتیبانی",
-      "href": "#",
-      "subMenu": []
-    },
-    {
-      "id": 1,
-      "svgUrl": "",
-      "title": "فروشگاه",
-      "href": "#",
-      "subMenu": []
-    },
-    {
-      "id": 1,
-      "svgUrl": "./public/svg/arrow-down.svg",
-      "title": "سایر لینک‌ها",
-      "href": "#",
-      "subMenu": [
-        {
-          "id": 1,
-          "svgUrl": "",
-          "title": "قوانین",
-          "href": "#",
-          "subMenu": []
-        },
-        {
-          "id": 1,
-          "svgUrl": "",
-          "title": "به ما بپیوندید",
-          "href": "#",
-          "subMenu": []
-        },
-        {
-          "id": 1,
-          "svgUrl": "",
-          "title": "تبلیغات در فیلیمو",
-          "href": "#",
-          "subMenu": []
-        },
-        {
-          "id": 1,
-          "svgUrl": "",
-          "title": "لوگو",
-          "href": "#",
-          "subMenu": []
-        },
-        {
-          "id": 1,
-          "svgUrl": "",
-          "title": "دانلود فیلم و سریال",
-          "href": "#",
-          "subMenu": []
-        }
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "svgUrl": "./public/svg/tv.svg",
+    "title": "تماشا با تلویزیون",
+    "href": "#",
+    "subMenu": []
+  },
+  {
+    "id": 1,
+    "svgUrl": "",
+    "title": "اپلیکیشن‌ها",
+    "href": "#",
+    "subMenu": []
+  },
+  {
+    "id": 1,
+    "svgUrl": "",
+    "title": "تماس و پشتیبانی",
+    "href": "#",
+    "subMenu": []
+  },
+  {
+    "id": 1,
+    "svgUrl": "",
+    "title": "فروشگاه",
+    "href": "#",
+    "subMenu": []
+  },
+  {
+    "id": 1,
+    "svgUrl": "./public/svg/arrow-down.svg",
+    "title": "سایر لینک‌ها",
+    "href": "#",
+    "subMenu": [
+      {
+        "id": 1,
+        "svgUrl": "",
+        "title": "قوانین",
+        "href": "#",
+        "subMenu": []
+      },
+      {
+        "id": 1,
+        "svgUrl": "",
+        "title": "به ما بپیوندید",
+        "href": "#",
+        "subMenu": []
+      },
+      {
+        "id": 1,
+        "svgUrl": "",
+        "title": "تبلیغات در فیلیمو",
+        "href": "#",
+        "subMenu": []
+      },
+      {
+        "id": 1,
+        "svgUrl": "",
+        "title": "لوگو",
+        "href": "#",
+        "subMenu": []
+      },
+      {
+        "id": 1,
+        "svgUrl": "",
+        "title": "دانلود فیلم و سریال",
+        "href": "#",
+        "subMenu": []
+      }
+    ]
+  }
+]

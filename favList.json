@@ -1,376 +1,374 @@
-{
-  "favList": [
-    {
-      "id": 1,
-      "categury": "serial",
-      "exclusiveCode": "s1",
-      "cardSrc": "./public/images/gol-ya-pouch.jfif",
-      "cardAlt": "gol-ya-pouch",
-      "bgURL": "./public/images/banner/gol-ya-pouch.jfif",
-      "logoUrl": "./public/images/pop-serial/gol-ya-pooch-logo.png",
-      "description": {
-        "title": "گل یا پوچ",
-        "coach": "مهران مدیری",
-        "summury": "اگه یک قدمی شکست هم بودی، لبخند بزن تا حریفت به پیروزیش شک کنه!",
-        "tags": {
-          "tag1": "ریلیتی شو",
-          "tag2": "کمدی"
-        }
-      },
-      "favSlider": {
-        "status": "pro",
-        "lockUrl": "./public/images/pop-serial/download.png",
-        "freeSvg": "./public/images/svg/ekhtesasi.svg",
-        "duration": "1:32:54",
-        "sliderBg": "./public/images/pop-serial/golpooch1.jpg"
-      },
-      "filmDetail": {
-        "esra": "",
-        "duration": "",
-        "born": "",
-        "quality": ""
+[
+  {
+    "id": 1,
+    "categury": "serial",
+    "exclusiveCode": "s1",
+    "cardSrc": "./public/images/gol-ya-pouch.jfif",
+    "cardAlt": "gol-ya-pouch",
+    "bgURL": "./public/images/banner/gol-ya-pouch.jfif",
+    "logoUrl": "./public/images/pop-serial/gol-ya-pooch-logo.png",
+    "description": {
+      "title": "گل یا پوچ",
+      "coach": "مهران مدیری",
+      "summury": "اگه یک قدمی شکست هم بودی، لبخند بزن تا حریفت به پیروزیش شک کنه!",
+      "tags": {
+        "tag1": "ریلیتی شو",
+        "tag2": "کمدی"
       }
     },
-    {
-      "id": 2,
-      "categury": "serial",
-      "exclusiveCode": "s2",
-      "cardSrc": "./public/images/zakhe-kari.jfif",
-      "cardAlt": "zakhme_kari",
-      "bgURL": "./public/images/banner/zakhe-kari.jpg",
-      "logoUrl": "./public/images/pop-serial/zakhme-kari-logo.png",
-      "description": {
-        "title": "زخم کاری: انتقام",
-        "coach": "کارگردان: محمدحسین مهدویان",
-        "summury": "با لو رفتن سیما و مالک توسط اسپاد، سیما در تلاش است که خود را از مخمصه ای که در آن گرفتارشده نجات دهد.از طرف دیگر سمیرا با همدستی پانی، مالک را به دادگاه می کشاند.در این بین طلوعی که با سمیرا شریک شده با افشا کردن رازی از مالک نزد سمیرا، او را نسبت به مالک بی  اعتماد می کند.",
-        "tags": {
-          "tag1": "درام",
-          "tag2": "خانوادگی"
-        }
-      },
-      "favSlider": {
-        "status": "pro",
-        "lockUrl": "./public/images/pop-serial/download.png",
-        "freeSvg": "./public/images/svg/ekhtesasi.svg",
-        "duration": "1:02:36",
-        "sliderBg": "./public/images/pop-serial/zakhme-kari.jpg"
-      },
-      "filmDetail": {
-        "esra": "",
-        "duration": "",
-        "born": "",
-        "quality": ""
-      }
+    "favSlider": {
+      "status": "pro",
+      "lockUrl": "./public/images/pop-serial/download.png",
+      "freeSvg": "./public/images/svg/ekhtesasi.svg",
+      "duration": "1:32:54",
+      "sliderBg": "./public/images/pop-serial/golpooch1.jpg"
     },
-    {
-      "id": 3,
-      "categury": "serial",
-      "exclusiveCode": "s3",
-      "cardSrc": "./public/images/joker.jpg",
-      "cardAlt": "joker",
-      "bgURL": "./public/images/banner/joker.jfif",
-      "logoUrl": "./public/images/pop-serial/jooker-logo.png",
-      "description": {
-        "title": "جوکر",
-        "coach": "کارگزدان: احسان علیخانی",
-        "summury": "اولين قسمتى كه جوكر ميزبان بانوان بود خيلى پر هيجان تر از تصور هممون برگزار شد! تو اين قسمت ما شاهد اتفاقات غير منتظره اى بوديم؛ از جوكر تايمى كه يه خنده حسابى گرفت، حيوون خونگى اى كه اصلاً طرفدار نداشت، ناظمى كه چالش هاش تمومی نداشت تا قاب عکسی از دختر شایسته که یکی رو بغض آلود می کرد اما بقیه رو می خندوند! ",
-        "tags": {
-          "tag1": "ریلیتی شو",
-          "tag2": "کمدی"
-        }
-      },
-      "favSlider": {
-        "status": "pro",
-        "lockUrl": "./public/images/pop-serial/download.png",
-        "freeSvg": "./public/images/svg/ekhtesasi.svg",
-        "duration": "1:52:27",
-        "sliderBg": "./public/images/pop-serial/joker.jpg"
-      },
-      "filmDetail": {
-        "esra": "",
-        "duration": "",
-        "born": "",
-        "quality": ""
-      }
-    },
-    {
-      "id": 4,
-      "categury": "serial",
-      "exclusiveCode": "s4",
-      "cardSrc": "./public/images/gol-ya-pouch.jfif",
-      "cardAlt": "gol-ya-pouch",
-      "bgURL": "./public/images/banner/gol-ya-pouch.jfif",
-      "logoUrl": "./public/images/pop-serial/gol-ya-pooch-logo.png",
-      "description": {
-        "title": "گل یا پوچ",
-        "coach": "مهران مدیری",
-        "summury": "اگه یک قدمی شکست هم بودی، لبخند بزن تا حریفت به پیروزیش شک کنه!",
-        "tags": {
-          "tag1": "ریلیتی شو",
-          "tag2": "کمدی"
-        }
-      },
-      "favSlider": {
-        "status": "pro",
-        "lockUrl": "./public/images/pop-serial/download.png",
-        "freeSvg": "./public/images/svg/ekhtesasi.svg",
-        "duration": "1:32:54",
-        "sliderBg": "./public/images/pop-serial/golpooch1.jpg"
-      },
-      "filmDetail": {
-        "esra": "",
-        "duration": "",
-        "born": "",
-        "quality": ""
-      }
-    },
-    {
-      "id": 5,
-      "categury": "serial",
-      "exclusiveCode": "s5",
-      "cardSrc": "./public/images/zakhe-kari.jfif",
-      "cardAlt": "zakhme_kari",
-      "bgURL": "./public/images/banner/zakhe-kari.jpg",
-      "logoUrl": "./public/images/pop-serial/zakhme-kari-logo.png",
-      "description": {
-        "title": "زخم کاری: انتقام",
-        "coach": "کارگردان: محمدحسین مهدویان",
-        "summury": "با لو رفتن سیما و مالک توسط اسپاد، سیما در تلاش است که خود را از مخمصه ای که در آن گرفتارشده نجات دهد.از طرف دیگر سمیرا با همدستی پانی، مالک را به دادگاه می کشاند.در این بین طلوعی که با سمیرا شریک شده با افشا کردن رازی از مالک نزد سمیرا، او را نسبت به مالک بی  اعتماد می کند.",
-        "tags": {
-          "tag1": "درام",
-          "tag2": "خانوادگی"
-        }
-      },
-      "favSlider": {
-        "status": "pro",
-        "lockUrl": "./public/images/pop-serial/download.png",
-        "freeSvg": "./public/images/svg/ekhtesasi.svg",
-        "duration": "1:02:36",
-        "sliderBg": "./public/images/pop-serial/zakhme-kari.jpg"
-      },
-      "filmDetail": {
-        "esra": "",
-        "duration": "",
-        "born": "",
-        "quality": ""
-      }
-    },
-    {
-      "id": 6,
-      "categury": "serial",
-      "exclusiveCode": "s6",
-      "cardSrc": "./public/images/joker.jpg",
-      "cardAlt": "joker",
-      "bgURL": "./public/images/banner/joker.jfif",
-      "logoUrl": "./public/images/pop-serial/jooker-logo.png",
-      "description": {
-        "title": "جوکر",
-        "coach": "کارگزدان: احسان علیخانی",
-        "summury": "اولين قسمتى كه جوكر ميزبان بانوان بود خيلى پر هيجان تر از تصور هممون برگزار شد! تو اين قسمت ما شاهد اتفاقات غير منتظره اى بوديم؛ از جوكر تايمى كه يه خنده حسابى گرفت، حيوون خونگى اى كه اصلاً طرفدار نداشت، ناظمى كه چالش هاش تمومی نداشت تا قاب عکسی از دختر شایسته که یکی رو بغض آلود می کرد اما بقیه رو می خندوند! ",
-        "tags": {
-          "tag1": "ریلیتی شو",
-          "tag2": "کمدی"
-        }
-      },
-      "favSlider": {
-        "status": "pro",
-        "lockUrl": "./public/images/pop-serial/download.png",
-        "freeSvg": "./public/images/svg/ekhtesasi.svg",
-        "duration": "1:52:27",
-        "sliderBg": "./public/images/pop-serial/joker.jpg"
-      },
-      "filmDetail": {
-        "esra": "",
-        "duration": "",
-        "born": "",
-        "quality": ""
-      }
-    },
-    {
-      "id": 7,
-      "categury": "film",
-      "exclusiveCode": "f1",
-      "cardSrc": "./public/images/pop-film/palto-shotori.jfif",
-      "cardAlt": "palto-shotori",
-      "bgURL": "./public/images/pop-film/palto-shotori-bg.jfif",
-      "logoUrl": "./public/images/pop-film/palto-shotori-logo.png",
-      "description": {
-        "title": "پالتو شتری",
-        "coach": "کارگردان: مهدی علی میرزایی",
-        "summury": "این فیلم دربارهٔ پسری جوان است که در رشته فلسفه درس می خواند. او یک پالتوی شتری رنگ از پدرش به ارث برده اما این پالتو برای او دردسرساز شده چون هر وقت آن را می پوشد فکرهای وسوسه آمیزی به سرش می زند.",
-        "tags": {
-          "tag1": "خانوادگی",
-          "tag2": "کمدی"
-        }
-      },
-      "favSlider": {
-        "status": "",
-        "lockUrl": "",
-        "freeSvg": "",
-        "duration": "",
-        "sliderBg": ""
-      },
-      "filmDetail": {
-        "esra": "بالای 3 سال",
-        "duration": "یک ساعت و 46 دقیقه",
-        "born": "محصول ایران",
-        "quality": "کیفیت HD"
-      }
-    },
-    {
-      "id": 8,
-      "categury": "film",
-      "exclusiveCode": "f2",
-      "cardSrc": "./public/images/pop-film/rooze-sheshom.jfif",
-      "cardAlt": "rooze-sheshom",
-      "bgURL": "./public/images/pop-film/rooze-sheshom-bg.jfif",
-      "logoUrl": "./public/images/pop-film/rooze-sheshom-logo.png",
-      "description": {
-        "title": "روز ششم",
-        "coach": "کارگردان: حجت قاسم زاده اصل",
-        "summury": "احمد پس از آزادی از زندان فقط پنج روز فرصت دارد پاسخ چند معما را که به وقایع گذشته مربوط است، پیدا کند و اگر موفق نشود کشته خواهد شد.",
-        "tags": {
-          "tag1": "جنایی",
-          "tag2": "رازآلود"
-        }
-      },
-      "favSlider": {
-        "status": "",
-        "lockUrl": "",
-        "freeSvg": "",
-        "duration": "",
-        "sliderBg": ""
-      },
-      "filmDetail": {
-        "esra": "بالای 15 سال",
-        "duration": "دو ساعت و 9 دقیقه",
-        "born": "محصول ایران",
-        "quality": "کیفیت HD"
-      }
-    },
-    {
-      "id": 9,
-      "categury": "film",
-      "exclusiveCode": "f3",
-      "cardSrc": "./public/images/pop-film/abnabat-choobi.jfif",
-      "cardAlt": "abnabat-choobi",
-      "bgURL": "./public/images/pop-film/abnabat-choobi-bg.jfif",
-      "logoUrl": "./public/images/pop-film/abnabat-choobi-logo.png",
-      "description": {
-        "title": "آبنبات چوبی",
-        "coach": "کارگردان: محمدحسین فرح بخش",
-        "summury": "فیلم آب نبات چوبی مسائل جوانان و مشکلات تفاوت نسلی را بررسی می کند. اختلاف دیدگاه نسل قدیم و جدید درباره مشکلات خانواده و تاثیر جامعه بر جوانان امروزی محور اصلی این فیلم است....",
-        "tags": {
-          "tag1": "جنایی",
-          "tag2": "درام"
-        }
-      },
-      "favSlider": {
-        "status": "",
-        "lockUrl": "",
-        "freeSvg": "",
-        "duration": "",
-        "sliderBg": ""
-      },
-      "filmDetail": {
-        "esra": "بالای 12 سال",
-        "duration": "یک ساعت و 59 دقیقه",
-        "born": "محصول ایران",
-        "quality": "کیفیت HD"
-      }
-    },
-    {
-      "id": 10,
-      "categury": "film",
-      "exclusiveCode": "f4",
-      "cardSrc": "./public/images/pop-film/palto-shotori.jfif",
-      "cardAlt": "palto-shotori",
-      "bgURL": "./public/images/pop-film/palto-shotori-bg.jfif",
-      "logoUrl": "./public/images/pop-film/palto-shotori-logo.png",
-      "description": {
-        "title": "پالتو شتری",
-        "coach": "کارگردان: مهدی علی میرزایی",
-        "summury": "این فیلم دربارهٔ پسری جوان است که در رشته فلسفه درس می خواند. او یک پالتوی شتری رنگ از پدرش به ارث برده اما این پالتو برای او دردسرساز شده چون هر وقت آن را می پوشد فکرهای وسوسه آمیزی به سرش می زند.",
-        "tags": {
-          "tag1": "خانوادگی",
-          "tag2": "کمدی"
-        }
-      },
-      "favSlider": {
-        "status": "",
-        "lockUrl": "",
-        "freeSvg": "",
-        "duration": "",
-        "sliderBg": ""
-      },
-      "filmDetail": {
-        "esra": "بالای 3 سال",
-        "duration": "یک ساعت و 46 دقیقه",
-        "born": "محصول ایران",
-        "quality": "کیفیت HD"
-      }
-    },
-    {
-      "id": 11,
-      "categury": "film",
-      "exclusiveCode": "f5",
-      "cardSrc": "./public/images/pop-film/rooze-sheshom.jfif",
-      "cardAlt": "rooze-sheshom",
-      "bgURL": "./public/images/pop-film/rooze-sheshom-bg.jfif",
-      "logoUrl": "./public/images/pop-film/rooze-sheshom-logo.png",
-      "description": {
-        "title": "روز ششم",
-        "coach": "کارگردان: حجت قاسم زاده اصل",
-        "summury": "احمد پس از آزادی از زندان فقط پنج روز فرصت دارد پاسخ چند معما را که به وقایع گذشته مربوط است، پیدا کند و اگر موفق نشود کشته خواهد شد.",
-        "tags": {
-          "tag1": "جنایی",
-          "tag2": "رازآلود"
-        }
-      },
-      "favSlider": {
-        "status": "",
-        "lockUrl": "",
-        "freeSvg": "",
-        "duration": "",
-        "sliderBg": ""
-      },
-      "filmDetail": {
-        "esra": "بالای 15 سال",
-        "duration": "دو ساعت و 9 دقیقه",
-        "born": "محصول ایران",
-        "quality": "کیفیت HD"
-      }
-    },
-    {
-      "id": 12,
-      "categury": "film",
-      "exclusiveCode": "f6",
-      "cardSrc": "./public/images/pop-film/abnabat-choobi.jfif",
-      "cardAlt": "abnabat-choobi",
-      "bgURL": "./public/images/pop-film/abnabat-choobi-bg.jfif",
-      "logoUrl": "./public/images/pop-film/abnabat-choobi-logo.png",
-      "description": {
-        "title": "آبنبات چوبی",
-        "coach": "کارگردان: محمدحسین فرح بخش",
-        "summury": "فیلم آب نبات چوبی مسائل جوانان و مشکلات تفاوت نسلی را بررسی می کند. اختلاف دیدگاه نسل قدیم و جدید درباره مشکلات خانواده و تاثیر جامعه بر جوانان امروزی محور اصلی این فیلم است....",
-        "tags": {
-          "tag1": "جنایی",
-          "tag2": "درام"
-        }
-      },
-      "favSlider": {
-        "status": "",
-        "lockUrl": "",
-        "freeSvg": "",
-        "duration": "",
-        "sliderBg": ""
-      },
-      "filmDetail": {
-        "esra": "بالای 12 سال",
-        "duration": "یک ساعت و 59 دقیقه",
-        "born": "محصول ایران",
-        "quality": "کیفیت HD"
-      }
+    "filmDetail": {
+      "esra": "",
+      "duration": "",
+      "born": "",
+      "quality": ""
     }
-  ]
-}
+  },
+  {
+    "id": 2,
+    "categury": "serial",
+    "exclusiveCode": "s2",
+    "cardSrc": "./public/images/zakhe-kari.jfif",
+    "cardAlt": "zakhme_kari",
+    "bgURL": "./public/images/banner/zakhe-kari.jpg",
+    "logoUrl": "./public/images/pop-serial/zakhme-kari-logo.png",
+    "description": {
+      "title": "زخم کاری: انتقام",
+      "coach": "کارگردان: محمدحسین مهدویان",
+      "summury": "با لو رفتن سیما و مالک توسط اسپاد، سیما در تلاش است که خود را از مخمصه ای که در آن گرفتارشده نجات دهد.از طرف دیگر سمیرا با همدستی پانی، مالک را به دادگاه می کشاند.در این بین طلوعی که با سمیرا شریک شده با افشا کردن رازی از مالک نزد سمیرا، او را نسبت به مالک بی  اعتماد می کند.",
+      "tags": {
+        "tag1": "درام",
+        "tag2": "خانوادگی"
+      }
+    },
+    "favSlider": {
+      "status": "pro",
+      "lockUrl": "./public/images/pop-serial/download.png",
+      "freeSvg": "./public/images/svg/ekhtesasi.svg",
+      "duration": "1:02:36",
+      "sliderBg": "./public/images/pop-serial/zakhme-kari.jpg"
+    },
+    "filmDetail": {
+      "esra": "",
+      "duration": "",
+      "born": "",
+      "quality": ""
+    }
+  },
+  {
+    "id": 3,
+    "categury": "serial",
+    "exclusiveCode": "s3",
+    "cardSrc": "./public/images/joker.jpg",
+    "cardAlt": "joker",
+    "bgURL": "./public/images/banner/joker.jfif",
+    "logoUrl": "./public/images/pop-serial/jooker-logo.png",
+    "description": {
+      "title": "جوکر",
+      "coach": "کارگزدان: احسان علیخانی",
+      "summury": "اولين قسمتى كه جوكر ميزبان بانوان بود خيلى پر هيجان تر از تصور هممون برگزار شد! تو اين قسمت ما شاهد اتفاقات غير منتظره اى بوديم؛ از جوكر تايمى كه يه خنده حسابى گرفت، حيوون خونگى اى كه اصلاً طرفدار نداشت، ناظمى كه چالش هاش تمومی نداشت تا قاب عکسی از دختر شایسته که یکی رو بغض آلود می کرد اما بقیه رو می خندوند! ",
+      "tags": {
+        "tag1": "ریلیتی شو",
+        "tag2": "کمدی"
+      }
+    },
+    "favSlider": {
+      "status": "pro",
+      "lockUrl": "./public/images/pop-serial/download.png",
+      "freeSvg": "./public/images/svg/ekhtesasi.svg",
+      "duration": "1:52:27",
+      "sliderBg": "./public/images/pop-serial/joker.jpg"
+    },
+    "filmDetail": {
+      "esra": "",
+      "duration": "",
+      "born": "",
+      "quality": ""
+    }
+  },
+  {
+    "id": 4,
+    "categury": "serial",
+    "exclusiveCode": "s4",
+    "cardSrc": "./public/images/gol-ya-pouch.jfif",
+    "cardAlt": "gol-ya-pouch",
+    "bgURL": "./public/images/banner/gol-ya-pouch.jfif",
+    "logoUrl": "./public/images/pop-serial/gol-ya-pooch-logo.png",
+    "description": {
+      "title": "گل یا پوچ",
+      "coach": "مهران مدیری",
+      "summury": "اگه یک قدمی شکست هم بودی، لبخند بزن تا حریفت به پیروزیش شک کنه!",
+      "tags": {
+        "tag1": "ریلیتی شو",
+        "tag2": "کمدی"
+      }
+    },
+    "favSlider": {
+      "status": "pro",
+      "lockUrl": "./public/images/pop-serial/download.png",
+      "freeSvg": "./public/images/svg/ekhtesasi.svg",
+      "duration": "1:32:54",
+      "sliderBg": "./public/images/pop-serial/golpooch1.jpg"
+    },
+    "filmDetail": {
+      "esra": "",
+      "duration": "",
+      "born": "",
+      "quality": ""
+    }
+  },
+  {
+    "id": 5,
+    "categury": "serial",
+    "exclusiveCode": "s5",
+    "cardSrc": "./public/images/zakhe-kari.jfif",
+    "cardAlt": "zakhme_kari",
+    "bgURL": "./public/images/banner/zakhe-kari.jpg",
+    "logoUrl": "./public/images/pop-serial/zakhme-kari-logo.png",
+    "description": {
+      "title": "زخم کاری: انتقام",
+      "coach": "کارگردان: محمدحسین مهدویان",
+      "summury": "با لو رفتن سیما و مالک توسط اسپاد، سیما در تلاش است که خود را از مخمصه ای که در آن گرفتارشده نجات دهد.از طرف دیگر سمیرا با همدستی پانی، مالک را به دادگاه می کشاند.در این بین طلوعی که با سمیرا شریک شده با افشا کردن رازی از مالک نزد سمیرا، او را نسبت به مالک بی  اعتماد می کند.",
+      "tags": {
+        "tag1": "درام",
+        "tag2": "خانوادگی"
+      }
+    },
+    "favSlider": {
+      "status": "pro",
+      "lockUrl": "./public/images/pop-serial/download.png",
+      "freeSvg": "./public/images/svg/ekhtesasi.svg",
+      "duration": "1:02:36",
+      "sliderBg": "./public/images/pop-serial/zakhme-kari.jpg"
+    },
+    "filmDetail": {
+      "esra": "",
+      "duration": "",
+      "born": "",
+      "quality": ""
+    }
+  },
+  {
+    "id": 6,
+    "categury": "serial",
+    "exclusiveCode": "s6",
+    "cardSrc": "./public/images/joker.jpg",
+    "cardAlt": "joker",
+    "bgURL": "./public/images/banner/joker.jfif",
+    "logoUrl": "./public/images/pop-serial/jooker-logo.png",
+    "description": {
+      "title": "جوکر",
+      "coach": "کارگزدان: احسان علیخانی",
+      "summury": "اولين قسمتى كه جوكر ميزبان بانوان بود خيلى پر هيجان تر از تصور هممون برگزار شد! تو اين قسمت ما شاهد اتفاقات غير منتظره اى بوديم؛ از جوكر تايمى كه يه خنده حسابى گرفت، حيوون خونگى اى كه اصلاً طرفدار نداشت، ناظمى كه چالش هاش تمومی نداشت تا قاب عکسی از دختر شایسته که یکی رو بغض آلود می کرد اما بقیه رو می خندوند! ",
+      "tags": {
+        "tag1": "ریلیتی شو",
+        "tag2": "کمدی"
+      }
+    },
+    "favSlider": {
+      "status": "pro",
+      "lockUrl": "./public/images/pop-serial/download.png",
+      "freeSvg": "./public/images/svg/ekhtesasi.svg",
+      "duration": "1:52:27",
+      "sliderBg": "./public/images/pop-serial/joker.jpg"
+    },
+    "filmDetail": {
+      "esra": "",
+      "duration": "",
+      "born": "",
+      "quality": ""
+    }
+  },
+  {
+    "id": 7,
+    "categury": "film",
+    "exclusiveCode": "f1",
+    "cardSrc": "./public/images/pop-film/palto-shotori.jfif",
+    "cardAlt": "palto-shotori",
+    "bgURL": "./public/images/pop-film/palto-shotori-bg.jfif",
+    "logoUrl": "./public/images/pop-film/palto-shotori-logo.png",
+    "description": {
+      "title": "پالتو شتری",
+      "coach": "کارگردان: مهدی علی میرزایی",
+      "summury": "این فیلم دربارهٔ پسری جوان است که در رشته فلسفه درس می خواند. او یک پالتوی شتری رنگ از پدرش به ارث برده اما این پالتو برای او دردسرساز شده چون هر وقت آن را می پوشد فکرهای وسوسه آمیزی به سرش می زند.",
+      "tags": {
+        "tag1": "خانوادگی",
+        "tag2": "کمدی"
+      }
+    },
+    "favSlider": {
+      "status": "",
+      "lockUrl": "",
+      "freeSvg": "",
+      "duration": "",
+      "sliderBg": ""
+    },
+    "filmDetail": {
+      "esra": "بالای 3 سال",
+      "duration": "یک ساعت و 46 دقیقه",
+      "born": "محصول ایران",
+      "quality": "کیفیت HD"
+    }
+  },
+  {
+    "id": 8,
+    "categury": "film",
+    "exclusiveCode": "f2",
+    "cardSrc": "./public/images/pop-film/rooze-sheshom.jfif",
+    "cardAlt": "rooze-sheshom",
+    "bgURL": "./public/images/pop-film/rooze-sheshom-bg.jfif",
+    "logoUrl": "./public/images/pop-film/rooze-sheshom-logo.png",
+    "description": {
+      "title": "روز ششم",
+      "coach": "کارگردان: حجت قاسم زاده اصل",
+      "summury": "احمد پس از آزادی از زندان فقط پنج روز فرصت دارد پاسخ چند معما را که به وقایع گذشته مربوط است، پیدا کند و اگر موفق نشود کشته خواهد شد.",
+      "tags": {
+        "tag1": "جنایی",
+        "tag2": "رازآلود"
+      }
+    },
+    "favSlider": {
+      "status": "",
+      "lockUrl": "",
+      "freeSvg": "",
+      "duration": "",
+      "sliderBg": ""
+    },
+    "filmDetail": {
+      "esra": "بالای 15 سال",
+      "duration": "دو ساعت و 9 دقیقه",
+      "born": "محصول ایران",
+      "quality": "کیفیت HD"
+    }
+  },
+  {
+    "id": 9,
+    "categury": "film",
+    "exclusiveCode": "f3",
+    "cardSrc": "./public/images/pop-film/abnabat-choobi.jfif",
+    "cardAlt": "abnabat-choobi",
+    "bgURL": "./public/images/pop-film/abnabat-choobi-bg.jfif",
+    "logoUrl": "./public/images/pop-film/abnabat-choobi-logo.png",
+    "description": {
+      "title": "آبنبات چوبی",
+      "coach": "کارگردان: محمدحسین فرح بخش",
+      "summury": "فیلم آب نبات چوبی مسائل جوانان و مشکلات تفاوت نسلی را بررسی می کند. اختلاف دیدگاه نسل قدیم و جدید درباره مشکلات خانواده و تاثیر جامعه بر جوانان امروزی محور اصلی این فیلم است....",
+      "tags": {
+        "tag1": "جنایی",
+        "tag2": "درام"
+      }
+    },
+    "favSlider": {
+      "status": "",
+      "lockUrl": "",
+      "freeSvg": "",
+      "duration": "",
+      "sliderBg": ""
+    },
+    "filmDetail": {
+      "esra": "بالای 12 سال",
+      "duration": "یک ساعت و 59 دقیقه",
+      "born": "محصول ایران",
+      "quality": "کیفیت HD"
+    }
+  },
+  {
+    "id": 10,
+    "categury": "film",
+    "exclusiveCode": "f4",
+    "cardSrc": "./public/images/pop-film/palto-shotori.jfif",
+    "cardAlt": "palto-shotori",
+    "bgURL": "./public/images/pop-film/palto-shotori-bg.jfif",
+    "logoUrl": "./public/images/pop-film/palto-shotori-logo.png",
+    "description": {
+      "title": "پالتو شتری",
+      "coach": "کارگردان: مهدی علی میرزایی",
+      "summury": "این فیلم دربارهٔ پسری جوان است که در رشته فلسفه درس می خواند. او یک پالتوی شتری رنگ از پدرش به ارث برده اما این پالتو برای او دردسرساز شده چون هر وقت آن را می پوشد فکرهای وسوسه آمیزی به سرش می زند.",
+      "tags": {
+        "tag1": "خانوادگی",
+        "tag2": "کمدی"
+      }
+    },
+    "favSlider": {
+      "status": "",
+      "lockUrl": "",
+      "freeSvg": "",
+      "duration": "",
+      "sliderBg": ""
+    },
+    "filmDetail": {
+      "esra": "بالای 3 سال",
+      "duration": "یک ساعت و 46 دقیقه",
+      "born": "محصول ایران",
+      "quality": "کیفیت HD"
+    }
+  },
+  {
+    "id": 11,
+    "categury": "film",
+    "exclusiveCode": "f5",
+    "cardSrc": "./public/images/pop-film/rooze-sheshom.jfif",
+    "cardAlt": "rooze-sheshom",
+    "bgURL": "./public/images/pop-film/rooze-sheshom-bg.jfif",
+    "logoUrl": "./public/images/pop-film/rooze-sheshom-logo.png",
+    "description": {
+      "title": "روز ششم",
+      "coach": "کارگردان: حجت قاسم زاده اصل",
+      "summury": "احمد پس از آزادی از زندان فقط پنج روز فرصت دارد پاسخ چند معما را که به وقایع گذشته مربوط است، پیدا کند و اگر موفق نشود کشته خواهد شد.",
+      "tags": {
+        "tag1": "جنایی",
+        "tag2": "رازآلود"
+      }
+    },
+    "favSlider": {
+      "status": "",
+      "lockUrl": "",
+      "freeSvg": "",
+      "duration": "",
+      "sliderBg": ""
+    },
+    "filmDetail": {
+      "esra": "بالای 15 سال",
+      "duration": "دو ساعت و 9 دقیقه",
+      "born": "محصول ایران",
+      "quality": "کیفیت HD"
+    }
+  },
+  {
+    "id": 12,
+    "categury": "film",
+    "exclusiveCode": "f6",
+    "cardSrc": "./public/images/pop-film/abnabat-choobi.jfif",
+    "cardAlt": "abnabat-choobi",
+    "bgURL": "./public/images/pop-film/abnabat-choobi-bg.jfif",
+    "logoUrl": "./public/images/pop-film/abnabat-choobi-logo.png",
+    "description": {
+      "title": "آبنبات چوبی",
+      "coach": "کارگردان: محمدحسین فرح بخش",
+      "summury": "فیلم آب نبات چوبی مسائل جوانان و مشکلات تفاوت نسلی را بررسی می کند. اختلاف دیدگاه نسل قدیم و جدید درباره مشکلات خانواده و تاثیر جامعه بر جوانان امروزی محور اصلی این فیلم است....",
+      "tags": {
+        "tag1": "جنایی",
+        "tag2": "درام"
+      }
+    },
+    "favSlider": {
+      "status": "",
+      "lockUrl": "",
+      "freeSvg": "",
+      "duration": "",
+      "sliderBg": ""
+    },
+    "filmDetail": {
+      "esra": "بالای 12 سال",
+      "duration": "یک ساعت و 59 دقیقه",
+      "born": "محصول ایران",
+      "quality": "کیفیت HD"
+    }
+  }
+]
