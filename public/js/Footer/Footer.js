@@ -1,5 +1,5 @@
 async function Footer() {
-  let data = await fetch("http://localhost:3000/footer");
+  let data = await fetch("https://omidxalili71.github.io/filimo-js/footer.json");
   let res = await data.json();
   let generateFoter = res.map((item) => {
     if(item.svgUrl!=="") {

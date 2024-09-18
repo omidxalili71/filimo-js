@@ -1,9 +1,11 @@
 async function OnlineCinema() {
-    let data= await fetch("http://localhost:3000/onlineCinema")
-    let res= await data.json()
-    
-    let cinema=res.map((item)=>{
-        return `<div id="ticket__item">
+  let data = await fetch(
+    "https://omidxalili71.github.io/filimo-js/onlineCinema.json"
+  );
+  let res = await data.json();
+
+  let cinema = res.map((item) => {
+    return `<div id="ticket__item">
                 <div id="ticket__item__image">
                   <img src=${item.src} alt=${item.alt}>
                 </div>
@@ -26,8 +28,10 @@ async function OnlineCinema() {
                     <a href="#">خرید بلیت</a>
                   </div>
                 </div>
-              </div>`
-    })
-    document.querySelector(".ticket__box").insertAdjacentHTML("afterbegin",cinema.join(""))
+              </div>`;
+  });
+  document
+    .querySelector(".ticket__box")
+    .insertAdjacentHTML("afterbegin", cinema.join(""));
 }
 export default OnlineCinema;

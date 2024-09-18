@@ -1,7 +1,9 @@
 async function FreeContent() {
-  let data= await fetch("http://localhost:3000/freeContent")
-  let res = await data.json()
-  let slider=res.map((item)=>{
+  let data = await fetch(
+    "https://omidxalili71.github.io/filimo-js/freeContent.json"
+  );
+  let res = await data.json();
+  let slider = res.map((item) => {
     return `<div class="swiper-slide">
                 <div class="freee">
                     <svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16" fill="none">
@@ -13,8 +15,10 @@ async function FreeContent() {
                 <div class="swiper-slide-title">
                     <h5>${item.title}</h5>
                 </div>
-            </div>`
-  })
-  document.querySelector(".fcSwiper .swiper-wrapper").insertAdjacentHTML("beforeend",slider.join(""))
+            </div>`;
+  });
+  document
+    .querySelector(".fcSwiper .swiper-wrapper")
+    .insertAdjacentHTML("beforeend", slider.join(""));
 }
 export default FreeContent;

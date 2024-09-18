@@ -1,10 +1,12 @@
 async function Card_slider(getElement) {
-  let data = await fetch("http://localhost:3000/cardSlider");
+  let data = await fetch(
+    "https://omidxalili71.github.io/filimo-js/cardSlidere.json"
+  );
   let res = await data.json();
   let finalFilter = getElement.map((element) => {
     return element.exclusiveCode;
   });
-  
+
   let finalFetch = res.filter((item) => {
     return item.exclusiveCode === finalFilter.join("");
   });
@@ -22,7 +24,7 @@ async function Card_slider(getElement) {
                             <img src="./public/images/pop-serial/download.png" alt="lock" >
                         </div>
                     </div>`;
-    } 
+    }
   });
   document.querySelector(".mySwiper .swiper-wrapper").innerHTML = sliderFinal;
 

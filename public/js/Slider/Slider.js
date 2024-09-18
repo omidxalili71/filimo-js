@@ -12,14 +12,17 @@ async function Slider() {
     currentImage.classList.remove("active");
   }, 5000);
 
-  let sliderData= await fetch("http://localhost:3000/slider");
+  let sliderData = await fetch(
+    "https://omidxalili71.github.io/filimo-js/slider.json"
+  );
   let sliderDataJson = await sliderData.json();
-  let firstSlider=""
-  firstSlider=sliderDataJson.map((item) => {
-    return `<img id="slider-img" class="active" src=${item.src} alt=${item.alt} />`
-  })
-  document.querySelector("#slider-container").insertAdjacentHTML("afterbegin",firstSlider.join(""))
-
+  let firstSlider = "";
+  firstSlider = sliderDataJson.map((item) => {
+    return `<img id="slider-img" class="active" src=${item.src} alt=${item.alt} />`;
+  });
+  document
+    .querySelector("#slider-container")
+    .insertAdjacentHTML("afterbegin", firstSlider.join(""));
 }
 
 export default Slider;
