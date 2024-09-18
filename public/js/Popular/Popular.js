@@ -2,9 +2,7 @@ import Card_api from "./Card_api";
 import Scroll from "./Scroll";
 
 async function Popular() {
-  let newData = await fetch(
-    "https://omidxalili71.github.io/filimo-js/favList.json"
-  );
+  let newData = await fetch("https://omidxalili71.github.io/api/favList.json");
   let newRes = await newData.json();
   let cardList = newRes.filter((item) => {
     return item.categury === "serial";

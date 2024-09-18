@@ -1,7 +1,5 @@
 async function Card_slider(getElement) {
-  let data = await fetch(
-    "https://omidxalili71.github.io/filimo-js/cardSlidere.json"
-  );
+  let data = await fetch("https://omidxalili71.github.io/api/cardSlidere.json");
   let res = await data.json();
   let finalFilter = getElement.map((element) => {
     return element.exclusiveCode;

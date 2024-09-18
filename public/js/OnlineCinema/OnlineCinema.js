@@ -1,6 +1,6 @@
 async function OnlineCinema() {
   let data = await fetch(
-    "https://omidxalili71.github.io/filimo-js/onlineCinema.json"
+    "https://omidxalili71.github.io/api/onlineCinema.json"
   );
   let res = await data.json();
 

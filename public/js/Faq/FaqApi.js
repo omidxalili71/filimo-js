@@ -1,5 +1,5 @@
 async function FaqApi() {
-  let data = await fetch("https://omidxalili71.github.io/filimo-js/faq.json");
+  let data = await fetch("https://omidxalili71.github.io/api/faq.json");
   let res = await data.json();
   let faq = res.map((item) => {
     return `<div class="accordion-single-item js-acc-item">

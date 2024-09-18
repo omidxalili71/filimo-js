@@ -1,6 +1,6 @@
 async function Menu() {
   let menu = "";
-  let data = await fetch("https://omidxalili71.github.io/filimo-js/menu.json");
+  let data = await fetch("https://omidxalili71.github.io/api/menu.json");
   let res = await data.json();
 
   menu = res.map((item) => {

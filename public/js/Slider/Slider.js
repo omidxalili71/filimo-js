@@ -13,7 +13,7 @@ async function Slider() {
   }, 5000);
 
   let sliderData = await fetch(
-    "https://omidxalili71.github.io/filimo-js/slider.json"
+    "https://omidxalili71.github.io/api/slider.json"
   );
   let sliderDataJson = await sliderData.json();
   let firstSlider = "";

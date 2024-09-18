@@ -1,7 +1,5 @@
 async function UserComments() {
-  let data = await fetch(
-    "https://omidxalili71.github.io/filimo-js/feedback.json"
-  );
+  let data = await fetch("https://omidxalili71.github.io/api/feedback.json");
   let res = await data.json();
   let slider = res.map((item) => {
     return `<div class="swiper-slide">
